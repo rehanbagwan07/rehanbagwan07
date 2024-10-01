@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C Programming,Python.**
 
-- 💬 Ask me about **C Program,Python.**
+- 💬 Ask me about **C Programm,Python.**
 
 - 📫 How to reach me **rehanbagwan4274@gmail.com**
 
