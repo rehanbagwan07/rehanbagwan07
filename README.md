@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rehan Bagwan.</h1>
 <h3 align="center">A BCA Student from India.</h3>
+mg align="right" alt="Coding" width="400" src=https://pngtree.com/freepng/programmer-it-developer_13520483.html
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehanbagwan07&label=Profile%20views&color=0e75b6&style=flat" alt="rehanbagwan07" /> </p>
 
@@ -9,7 +10,7 @@
 
 - 🌱 I’m currently learning **C Programming,Python.**
 
-- 💬 Ask me about **C Programm,Python.**
+- 💬 Ask me about **C Program,Python.**
 
 - 📫 How to reach me **rehanbagwan4274@gmail.com**
 
@@ -29,4 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehanbagwan07&show_icons=true&locale=en" alt="rehanbagwan07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehanbagwan07&" alt="rehanbagwan07" /></p>
+
 
